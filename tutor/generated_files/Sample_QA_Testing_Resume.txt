@@ -1,0 +1,268 @@
+﻿═════════════════════════════════════════════════════════════════════════════
+                         RAJESH KUMAR - QA ENGINEER
+               Email: rajesh.qa@email.com | Phone: +91-XXXXXXXXXX
+             LinkedIn: linkedin.com/in/rajeshkumar-qa | GitHub: github.com/rajeshqa
+═════════════════════════════════════════════════════════════════════════════
+
+PROFESSIONAL SUMMARY
+───────────────────────
+Experienced QA Engineer with 7+ years of expertise in manual and automated testing.
+Specialized in Selenium test automation, API testing, and performance testing.
+Proven track record of improving test coverage by 50%, reducing bug escape rate by 40%,
+and leading QA teams to deliver high-quality software products.
+
+
+TECHNICAL SKILLS
+─────────────────
+Testing Tools & Frameworks:
+  • Automation: Selenium WebDriver, Cypress, TestNG, JUnit, Robot Framework
+  • API Testing: Postman, Rest Assured, SoapUI, Insomnia
+  • Performance Testing: JMeter, LoadRunner, Apache Bench
+  • Test Management: Jira, TestRail, HP ALM, Azure DevOps
+
+Programming Languages:
+  • Java (Expert), Python (Intermediate), JavaScript (Intermediate), SQL (Expert)
+
+Testing Types:
+  • Functional Testing, Regression Testing, Smoke Testing
+  • Integration Testing, API Testing, Performance Testing, UAT
+  • Mobile Testing (iOS & Android with Appium)
+  • Exploratory Testing, User Acceptance Testing (UAT)
+
+Databases & Query Languages:
+  • MySQL, PostgreSQL, MongoDB, Oracle
+  • Advanced SQL: JOINs, Queries, Stored Procedures, Triggers
+
+CI/CD & DevOps:
+  • Jenkins, GitHub Actions, GitLab CI, Docker, Kubernetes
+  • Continuous Integration & Continuous Testing
+
+Version Control & Tools:
+  • Git, GitHub, GitLab, Bitbucket, Confluence, Slack, Visual Studio Code
+
+Certifications & Methodologies:
+  • ISTQB Certified Tester - Foundation Level
+  • Agile/Scrum, BDD (Behavior-Driven Development), TDD (Test-Driven Development)
+
+
+WORK EXPERIENCE
+────────────────
+
+SENIOR QA ENGINEER | TechGlobal Solutions Pvt. Ltd. | Jan 2021 - Present
+Location: Bangalore, India
+
+• Led QA team of 8 engineers, improving overall testing efficiency by 45%
+• Designed and implemented comprehensive Selenium test automation framework
+  - Created 600+ automated test cases with 97% pass rate
+  - Used Page Object Model (POM) for better code maintainability
+  - Reduced manual testing time by 65% through intelligent automation
+
+• Improved Test Coverage:
+  - Increased test coverage from 55% to 87% within 8 months
+  - Identified and tested 200+ critical functionality gaps
+  - Reduced bug escape rate by 40% through comprehensive regression testing
+
+• API Testing & Quality Assurance:
+  - Tested 150+ REST API endpoints using Postman and Rest Assured
+  - Validated data integrity across microservices and payment gateway integration
+  - Achieved 99.5% API response accuracy
+
+• Performance Testing & Optimization:
+  - Conducted load testing using JMeter with 10,000+ concurrent users
+  - Identified 25+ performance bottlenecks and provided optimization recommendations
+  - Reduced server response time by 35%
+
+• CI/CD Pipeline Integration:
+  - Set up automated test execution in Jenkins pipeline
+  - Integrated Selenium tests with GitHub Actions for continuous testing
+  - Achieved 90% test automation in deployment pipeline
+
+• Mentoring & Training:
+  - Mentored 4 junior QA engineers, improving their test automation skills
+  - Conducted knowledge-sharing sessions on test automation best practices
+  - Conducted code reviews for 150+ automation scripts
+
+• Agile & Collaboration:
+  - Participated in daily stand-ups, sprint planning, and retrospectives
+  - Collaborated with DevOps team to resolve integration issues
+  - Improved bug resolution time from 3 days to 1.5 days
+
+
+QA AUTOMATION ENGINEER | InfoSys Technologies Ltd. | Jul 2018 - Dec 2020
+Location: Pune, India
+
+• Developed Selenium test automation framework using Java and TestNG
+  - Created 450+ test cases for web applications
+  - Implemented Page Object Model (POM) design pattern
+  - Maintained 94% test pass rate consistently
+
+• Automated Testing Coverage:
+  - Reduced manual testing efforts by 60%
+  - Created automated regression test suite (300+ test cases)
+  - Executed nightly automated tests with minimal failures
+
+• Mobile App Testing:
+  - Tested iOS and Android applications using Appium
+  - Tested on 30+ real devices and emulators
+  - Created 120+ mobile test cases with cross-platform compatibility
+
+• API & Integration Testing:
+  - Tested RESTful APIs using Postman (200+ test cases)
+  - Validated payment gateway integrations
+  - Performed database testing with SQL queries
+
+• Performance & Load Testing:
+  - Conducted JMeter performance testing (5,000+ concurrent users)
+  - Analyzed performance metrics and provided recommendations
+  - Reduced API response time by 25%
+
+• Bug Tracking & Reporting:
+  - Logged and tracked 500+ defects in Jira
+  - Provided comprehensive bug reports with screenshots and videos
+  - Achieved 95% first-time bug resolution rate
+
+
+QA TESTER (MANUAL) | Accenture Consulting | Mar 2017 - Jun 2018
+Location: Hyderabad, India
+
+• Executed comprehensive manual testing on web and mobile applications
+  - Performed functional testing on e-commerce portal (300+ test cases)
+  - Conducted regression testing for 12+ product releases
+  - Achieved 98% defect detection rate
+
+• Testing Activities:
+  - Performed UAT for 8+ product releases with zero production issues
+  - Executed smoke and regression test suites
+  - Tested API endpoints and validated API responses
+
+• Defect Management:
+  - Reported 400+ defects in Jira with clear reproduction steps
+  - Collaborated with developers to resolve critical bugs
+  - Achieved 85% bug fix rate within 1 week
+
+• Documentation:
+  - Created comprehensive test case documentation in Confluence
+  - Maintained test execution logs and traceability matrix
+  - Documented UAT sign-off reports
+
+
+PROJECTS & KEY ACHIEVEMENTS
+─────────────────────────────
+
+1. E-Commerce Platform Testing (2023 - 2024)
+   Tech Stack: Selenium, Java, TestNG, MySQL, AWS
+   • Created comprehensive test suite with 300+ test cases covering:
+     - User registration, login, product search, checkout, payment
+     - Order management, returns, refunds, customer notifications
+   • Achieved 95% test coverage across all modules
+   • Automated regression tests reduced testing time from 5 days to 2 days
+   • Detected 150+ bugs before production release
+   • Results: Reduced post-production bugs by 45%
+   Impact: Improved customer satisfaction score by 12%
+
+2. Mobile Banking App Testing (2022 - 2023)
+   Tech Stack: Appium, Python, Postman, iOS & Android
+   • Tested iOS and Android banking application
+   • Created 250+ test cases for core functionalities:
+     - User authentication, fund transfer, bill payments, account operations
+   • Tested on 25+ devices and emulators (iOS 14-16, Android 10-13)
+   • Identified and documented 120+ critical and major bugs
+   • Achieved app rating improvement from 3.2 to 4.5 stars
+   Results: Successful app launch with zero critical production issues
+   Downloads: 500K+ with 4.6-star rating
+
+3. API Integration Testing (2021 - 2022)
+   Tech Stack: Postman, Rest Assured, Jenkins, GitHub
+   • Tested integration between 15+ microservices
+   • Created 200+ API test cases covering:
+     - Authentication, authorization, data validation, error handling
+   • Set up CI/CD pipeline for automated API testing
+   • Validated payment gateway and third-party service integrations
+   • Achieved 99.8% API response accuracy
+   Results: Prevented 30+ critical integration bugs in production
+
+4. Performance Testing & Optimization (2021)
+   Tech Stack: JMeter, Apache Bench, AWS CloudWatch
+   • Conducted load testing with 10,000+ concurrent users
+   • Identified 25+ performance issues and bottlenecks
+   • Provided optimization recommendations:
+     - Database query optimization
+     - Cache implementation strategy
+     - Server resource optimization
+   • Results: 35% improvement in server response time, 40% reduction in server load
+
+5. Automation Framework Development (2020 - 2021)
+   • Designed and developed reusable Selenium framework
+   • Implemented best practices:
+     - Page Object Model (POM)
+     - Data-Driven Testing
+     - Hybrid Framework Architecture
+   • Framework Features:
+     - Cross-browser testing (Chrome, Firefox, Safari, Edge)
+     - Screenshot and video capture on failures
+     - Detailed HTML reports
+     - Parallel test execution
+   • Adoption: Used by 20+ QA engineers across 5 projects
+   Results: Improved code maintainability and reduced test maintenance time by 50%
+
+
+EDUCATION
+──────────
+
+Bachelor of Technology (B.Tech) in Information Technology
+Jawaharlal Nehru Technological University (JNTU) | Graduated: May 2017
+CGPA: 3.8/4.0 | Honors: First Class
+
+
+CERTIFICATIONS & TRAINING
+──────────────────────────
+
+✓ ISTQB Certified Tester - Foundation Level (Certification ID: CTFL/2020/XXXXX)
+✓ Udemy: Selenium WebDriver with Java (Completion Certificate)
+✓ Udemy: API Testing with Postman (Completion Certificate)
+✓ Coursera: Performance Testing with JMeter (Completion Certificate)
+✓ AWS Certified Cloud Practitioner (In Progress - Expected: Q4 2024)
+
+
+ADDITIONAL SKILLS & ACHIEVEMENTS
+──────────────────────────────────
+
+• Leadership & Team Management:
+  - Led QA team of 8 engineers
+  - Mentored 5+ junior QA professionals
+  - Conducted training sessions on test automation
+
+• Communication & Collaboration:
+  - Excellent communication skills with technical and non-technical stakeholders
+  - Strong teamwork and collaboration abilities
+  - Experience working in Agile/Scrum environments
+
+• Problem Solving:
+  - Strong analytical and problem-solving abilities
+  - Quick learner with ability to adapt to new testing tools and methodologies
+  - Excellent attention to detail and quality-focused mindset
+
+• Tools & Technologies Learning:
+  - Quick to learn new testing tools and technologies
+  - Proactive in exploring industry best practices
+  - Regular participation in tech communities and webinars
+
+• Languages:
+  - English (Fluent)
+  - Hindi (Native)
+  - Technical Documentation Writing
+
+• Personal Qualities:
+  - Detail-oriented and quality-driven
+  - Self-motivated with strong work ethics
+  - Reliable and committed to project success
+  - Continuous learner and tech enthusiast
+
+
+REFERENCES
+───────────
+
+Available upon request
+
+
+═════════════════════════════════════════════════════════════════════════════
